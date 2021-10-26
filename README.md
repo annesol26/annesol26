@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Anne Solgaard
 
 <!--
 **annesol26/annesol26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
